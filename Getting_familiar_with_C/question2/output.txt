@@ -1,0 +1,10 @@
+Calculate Monthly Payment for a Car Purchase
+
+Price of the Car => 5000
+Enter your down payment  => 500
+Please enter your annual interest rate => 2
+Please enter your total number of payments => 24
+
+The amount you borrowed is $ 4500.00
+Your monthly payment is $ 769.02
+Press any key to continue . . .

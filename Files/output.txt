@@ -1,0 +1,48 @@
+***************
+'A': Add flights
+'D': Delete a flight
+'U': Update a flight
+'Q': Quit
+***************
+Please enter a command: A
+How many flights would you like to create: 1
+Enter the flight number: 6000
+Enter the airline code: BA
+Enter the city of departure: Lubbock
+Enter the destination: London
+Enter the departure time in 2400 hrs format: 0230
+Enter the departure date in the format MMDDYYYY: 05152020
+Enter the arrival time in 2400 hrs format: 1130
+Enter the arrival date in the format MMDDYYYY: 05162020
+Enter the number of seats available in first class: 2
+Enter the number of seats sold in first class: 13
+Enter the number of seats available in coach: 10
+Enter the number of seats sold in coach: 50
+***************
+'A': Add flights
+'D': Delete a flight
+'U': Update a flight
+'Q': Quit
+***************
+Please enter a command: U
+Enter the following details of the flight you want to update
+Enter flight number: 6000
+Enter airline code: BA
+***************
+'A': Add flights
+'D': Delete a flight
+'U': Update a flight
+'Q': Quit
+***************
+Please enter a command: D
+Enter the following details of the flight you want to delete
+Enter flight number: 6000
+Enter airline code: BA
+***************
+'A': Add flights
+'D': Delete a flight
+'U': Update a flight
+'Q': Quit
+***************
+Please enter a command: Q
+The program will now quit.

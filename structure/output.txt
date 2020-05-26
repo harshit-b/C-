@@ -1,0 +1,20 @@
+Following are the product types:
+M -> Meats
+P -> Produce
+D -> Dairy
+C -> Canned Goods
+N -. Nonfoods
+Enter the letter corresponding to the type of product's information you want to store: C
+Enter the name of the product: corn
+Enter the expiration date in the format (MM YYYY): 11 2020
+Enter the unit cost in cents: 89
+Enter the aisle number(an integer): 12
+Enter the aisle side (letter 'A' or 'B'): B
+
+Product Name: corn
+Product Category: C
+Expiration Date: 11 2020
+Aisle: 12B
+
+
+Press any key to continue . . .

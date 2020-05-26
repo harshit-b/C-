@@ -1,0 +1,18 @@
+Enter the patient's first name: Harshit
+Enter the patient's last name: Bhargava
+Enter the patient's gender: male
+Enter the patient's date of birth in the format (MM DD YYYY) : 01 07 2001
+Enter the patient's height (in cm): 169
+Enter the patient's weight (in kg): 69
+
+Harshit's Health
+Age : 19
+Maximum heart rate: 200
+Target heart rate: 100-170
+BMI : 24.2
+
+BMI VALUES
+Underweight: less than 18.5
+Normal: between 18.5 and 24.9
+Overweight: between 25 and 29.9
+Obese: 30 or greater

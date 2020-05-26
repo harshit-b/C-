@@ -1,0 +1,29 @@
+
+Enter paycode (-1 to end): 1
+Mangaer Selected
+Enter Weekly Salary: $600
+The manager's pay is: $600.00
+
+Enter paycode (-1 to end): 2
+Hourly Worker Selected
+Enter Hourly Wage: $8.5
+Enter the number of hours worked: 45
+The hourly worker pay is: $403.75
+
+Enter paycode (-1 to end): 3
+Commision Worker Selected
+Enter the gross weekly sales: $2000
+Commision Worker's pay: $364.00
+
+Enter paycode (-1 to end): 4
+Piecewise Worker Selected
+Enter the fixed amount of money for each item produced: $40
+Enter the no. of items produced: 5
+The pieceworker's pay is $200.00
+
+Enter paycode (-1 to end): -1
+
+Total number of managers paid: 1
+Total number of hourly workers paid: 1
+Total number of commision workers paid: 1
+Total number of piece workers paid: 1

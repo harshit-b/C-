@@ -1,0 +1,23 @@
+Enter the 12 digits of the barcode seperated by spaces: 0 7 9 4 0 0 8 0 4 5 0 1
+Result from step 1: 63
+Result from step 2: 79
+
+079400804501:  validated
+
+Enter the 12 digits of the barcode seperated by spaces: 0 2 4 0 0 0 1 6 2 8 6 0
+Result from step 1: 39
+Result from step 2: 55
+
+024000162860:  error in barcode
+
+Enter the 12 digits of the barcode seperated by spaces: 0 1 1 1 1 0 8 5 6 8 0 7
+Result from step 1: 48
+Result from step 2: 63
+
+011110856807:  validated
+
+Enter the 12 digits of the barcode seperated by spaces: 0 5 1 0 0 0 1 3 8 1 0 1
+Result from step 1: 30
+Result from step 2: 39
+
+051000138101:  validated

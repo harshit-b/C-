@@ -1,0 +1,6 @@
+Please enter the total purchase: $24.9
+Press 't' if the purchaser is a teacher else press 'n': n
+
+Total purchases                 $ 24.90
+Sales Tax (5.0%)                $ 1.25
+Total                           $ 26.15

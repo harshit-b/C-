@@ -1,0 +1,35 @@
+Enter the total number of crews available(maximum is 3): 3
+Enter the total no. of aircrafts for maintainence(maximum is 8): 8
+Enter the crew number: 0
+Enter the crew number: 1
+Enter the crew number: 2
+Enter the aircraft id that needs to be worked upon: 7899
+Enter the aircraft id that needs to be worked upon: 3119
+Enter the aircraft id that needs to be worked upon: 7668
+Enter the aircraft id that needs to be worked upon: 2324
+Enter the aircraft id that needs to be worked upon: 1123
+Enter the aircraft id that needs to be worked upon: 7555
+Enter the aircraft id that needs to be worked upon: 6789
+Enter the aircraft id that needs to be worked upon: 7888
+Do you want the cheapest way to get your work done? Enter 'y' for yes or 'n' for no: y
+
+Crew Number(0 or 1 or 2): 0
+Skill Level: 1
+Cost of Crew Per Hour: 200
+Hours the crew is assigned: 18
+Following are the AIRCRAFT IDs which the crew has been assigned to:
+ 7899,  3119,  7668,
+
+Crew Number(0 or 1 or 2): 1
+Skill Level: 2
+Cost of Crew Per Hour: 300
+Hours the crew is assigned: 16
+Following are the AIRCRAFT IDs which the crew has been assigned to:
+ 2324,  1123,  7555,
+
+Crew Number(0 or 1 or 2): 2
+Skill Level: 3
+Cost of Crew Per Hour: 400
+Hours the crew is assigned: 12
+Following are the AIRCRAFT IDs which the crew has been assigned to:
+ 6789,  7888,
